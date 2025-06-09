@@ -10,11 +10,5 @@
             "src": "/(.*)",
             "dest": "wsgi.py"
         }
-    ],
-    "static": [
-        {
-          "src": "staticfiles",
-          "dest": "staticfiles"
-        }
-      ]
+    ]
 }
