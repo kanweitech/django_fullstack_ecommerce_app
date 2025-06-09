@@ -1,8 +1,8 @@
 {
-    "routes": [
+    "rewrites": [
         {
             "src": "/(.*)",
-            "dest": "wsgi.py"
+            "dest": "django_fullstack_ecommerce_app/wsgi.py"
         }
     ]
 }
